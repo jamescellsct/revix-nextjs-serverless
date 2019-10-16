@@ -1,5 +1,4 @@
 import { styled } from '@styles';
-import { uiBox, toCss } from '@z1/lib-ui-box-tailwind'
 
 export const Header = styled.div`
   height: 100px;
