@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93caf1c5-3354-444b-83f2-5471c004bcf1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.next/BUILD_ID" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/build-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-minifier/a1582936020" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/cache/next-minifier/a4132057222" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/react-loadable-manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/records.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.next/static/runtime/webpack-035ac2b14bde147cb4a8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/graphql/jobs.query.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/chokidar/types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-import/config/typescript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-import/lib/rules/no-named-export.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/eslint-plugin-import/lib/rules/no-unused-modules.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/amp.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/app.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/babel.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/client.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/config.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/constants.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/data.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/bin/next.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/babel/plugins/amp-attributes.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/babel/plugins/commonjs.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/babel/plugins/jsx-pragma.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/babel/plugins/next-data.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/babel/plugins/next-page-config.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/babel/plugins/optimize-hook-destructuring.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/babel/plugins/react-loadable-plugin.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/babel/preset.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/compiler.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/entries.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/generate-build-id.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/is-writeable.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/output/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/output/log.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/output/store.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/spinner.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/utils.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack-config.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/loaders/error-loader.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/loaders/next-data-loader.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/loaders/next-serverless-loader.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/loaders/noop-loader.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/plugins/build-manifest-plugin.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/plugins/chunk-graph-plugin.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/plugins/chunk-names-plugin.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/plugins/css-minimizer-plugin.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/plugins/dll-import.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/plugins/next-drop-client-page-plugin.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/plugins/next-esm-plugin.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/plugins/nextjs-require-cache-hot-reloader.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/plugins/nextjs-ssr-import.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/plugins/nextjs-ssr-module-cache.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/plugins/pages-manifest-plugin.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/plugins/profiling-plugin.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/plugins/react-loadable-plugin.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/plugins/serverless-plugin.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/plugins/terser-webpack-plugin/src/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/plugins/terser-webpack-plugin/src/minify.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/webpack/plugins/unlink-removed-pages-plugin.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/build/write-build-id.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/cli/next-build.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/cli/next-dev.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/cli/next-export.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/cli/next-start.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/cli/next-telemetry.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/client/dev/error-overlay/format-webpack-messages.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/client/dev/error-overlay/source-map-support.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/client/link.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/client/router.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/client/with-router.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/compiled/arg/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/compiled/nanoid/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/compiled/resolve/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/compiled/text-table/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/compiled/unistore/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/export/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/lib/coalesced-function.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/lib/constants.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/lib/data.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/lib/file-exists.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/lib/find-pages-dir.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/lib/pretty-bytes.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/lib/recursive-copy.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/lib/recursive-delete.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/lib/recursive-readdir.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/lib/resolve-request.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/lib/verifyTypeScriptSetup.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/amp-context.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/amp.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/constants.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/data-manager-context.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/data-manager.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/dynamic.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/head-manager-context.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/head.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/loadable-context.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/loadable.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/mitt.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/request-context.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/router-context.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/router/rewrite-url-for-export.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/router/router.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/router/utils/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/router/utils/is-dynamic.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/router/utils/route-matcher.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/router/utils/route-regex.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/router/utils/sorted-routes.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/runtime-config.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/side-effect.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/lib/utils.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/server/api-utils.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/server/config.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/server/get-page-files.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/server/lib/path-match.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/server/lib/recursive-readdir-sync.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/server/load-components.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/server/next-server.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/server/normalize-page-path.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/server/optimize-amp.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/server/render.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/server/require.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/server/router.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/server/send-html.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/server/serve-static.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/server/spr-cache.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/next-server/server/utils.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/pages/_app.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/pages/_document.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/pages/_error.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/server/error-debug.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/server/hot-reloader.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/server/htmlescape.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/server/lib/error-overlay-middleware.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/server/lib/find-page-file.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/server/lib/start-server.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/server/lib/utils.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/server/next-dev-server.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/server/next.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/server/on-demand-entry-handler.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/telemetry/anonymous-meta.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/telemetry/ci-info.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/telemetry/events/build.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/telemetry/events/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/telemetry/events/plugins.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/telemetry/events/version.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/telemetry/post-payload.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/telemetry/project-id.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dist/telemetry/storage.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/document.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/dynamic.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/error.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/head.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/link.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/router.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/types/global.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/next/types/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/terser/tools/terser.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/unfetch/polyfill/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/unfetch/src/index.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/util/apollo-client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/nav.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1SIA3VDeDDuRl3G5BlseVKo6iyd" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.dev">
+    <configuration name="build" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="build" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="dev:next" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="dev:next" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="start:next" type="js.build_tools.npm" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start:next" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="npm.dev:next" />
+      <item itemvalue="npm.build" />
+      <item itemvalue="npm.start" />
+      <item itemvalue="npm.start:next" />
+      <item itemvalue="npm.dev" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93caf1c5-3354-444b-83f2-5471c004bcf1" name="Default Changelist" comment="" />
+      <created>1571240536592</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571240536592</updated>
+      <workItem from="1571240538887" duration="5632000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
