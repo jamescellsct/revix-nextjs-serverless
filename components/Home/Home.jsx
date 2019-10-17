@@ -15,7 +15,7 @@ const Home = props => {
     <HomeWrapper>
       <Content>
           <BrowserView>
-              <h1> This is rendered only in browser </h1>
+              <h1> This is rendered only in moms browser </h1>
           </BrowserView>
           <MobileView>
               <h1> This is rendered only on mobile </h1>

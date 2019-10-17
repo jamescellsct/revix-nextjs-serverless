@@ -7,16 +7,11 @@
     "byName": {
       "commons": 0,
       "static/runtime/webpack.js": 1,
-      "static/mHDmKhahNlbM6LHsbZOM9/pages/_app.js": 2,
-      "static/mHDmKhahNlbM6LHsbZOM9/pages/_error.js": 3,
-      "static/mHDmKhahNlbM6LHsbZOM9/pages/index.js": 4,
-      "static/runtime/main.js": 5,
-      "static/jYrWEhD12h6QnJYVPzCqs/pages/_app.js": 6,
-      "static/jYrWEhD12h6QnJYVPzCqs/pages/_error.js": 7,
-      "static/jYrWEhD12h6QnJYVPzCqs/pages/index.js": 8,
-      "static/T2bM37rwstEebWqDSmCXl/pages/_app.js": 2,
-      "static/T2bM37rwstEebWqDSmCXl/pages/_error.js": 3,
-      "static/T2bM37rwstEebWqDSmCXl/pages/index.js": 4
+      "static/runtime/main.js": 2,
+      "static/t77Sb07cBwAhSmzHG7D-j/pages/_app.js": 3,
+      "static/t77Sb07cBwAhSmzHG7D-j/pages/_document.styles.js": 4,
+      "static/t77Sb07cBwAhSmzHG7D-j/pages/_error.js": 5,
+      "static/t77Sb07cBwAhSmzHG7D-j/pages/index.js": 6
     },
     "bySource": {},
     "usedIds": [
@@ -25,7 +20,8 @@
       2,
       3,
       4,
-      5
+      5,
+      6
     ]
   }
 }

@@ -6,6 +6,7 @@
         "inline-react-svg",
         "react-element-info",
         "macros",
+        "babel-plugin-styled-components",
         ["module-resolver", {
           "root": ["./"],
           "alias": {
@@ -26,6 +27,7 @@
         "inline-react-svg",
         "macros",
         "transform-remove-console",
+        "babel-plugin-styled-components",
         ["module-resolver", {
           "root": ["./"],
           "alias": {
