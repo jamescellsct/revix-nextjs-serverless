@@ -3,12 +3,23 @@ import PropTypes from 'prop-types';
 import {
   HomeWrapper, Content
 } from './Home.styles';
+import {
+    BrowserView,
+    MobileView,
+    isBrowser,
+    isMobile
+} from "react-device-detect";
 
 const Home = props => {
   return (
     <HomeWrapper>
       <Content>
-        AC React, next.js, styled-components and GraphQL boilerplate
+          <BrowserView>
+              <h1> This is rendered only in browser </h1>
+          </BrowserView>
+          <MobileView>
+              <h1> This is rendered only on mobile </h1>
+          </MobileView>
       </Content>
     </HomeWrapper>
   );
