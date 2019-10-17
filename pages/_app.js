@@ -1,8 +1,11 @@
+import React from 'react';
+import * as Sentry from '@sentry/browser';
 import App from 'next/app';
 import Head from 'next/head';
-import React from 'react';
 import { ApolloProvider } from '@apollo/react-hooks';
 import withData from '../util/apollo-client';
+
+Sentry.init({dsn: "https://ea4ca38afe3c4ab882618ba27d1b3111@sentry.io/1783213"});
 
 class RevixApp extends App {
   static async getInitialProps({ Component, router, ctx }) {
@@ -13,6 +16,18 @@ class RevixApp extends App {
     }
 
     return { pageProps };
+  }
+
+  componentDidCatch(error, errorInfo) {
+    Sentry.withScope((scope) => {
+      Object.keys(errorInfo).forEach((key) => {
+        scope.setExtra(key, errorInfo[key]);
+      });
+
+      Sentry.captureException(error);
+    });
+
+    super.componentDidCatch(error, errorInfo);
   }
 
   render() {

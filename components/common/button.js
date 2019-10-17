@@ -1,5 +1,5 @@
 import React from 'react';
-import styled from 'styled-components';
+import styled, {css} from 'styled-components';
 
 const Button = styled.button`
   width: 112px;
@@ -7,13 +7,14 @@ const Button = styled.button`
   border-radius: 100px;
   background-color: #212eee;
   color: #ffffff;
+  text-align: center;
   font-size: 14px;
   font-weight: 700;
   letter-spacing: 0.28px;
   line-height: 21px;
   
   ${props => props.primary && css`
-    background-color: #212eee;
+    background: #212eee;
 `}
   
 `;

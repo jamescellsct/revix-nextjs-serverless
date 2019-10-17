@@ -3,10 +3,7 @@ import Document, {Head, Main, NextScript} from 'next/document';
 import {ServerStyleSheet} from 'styled-components';
 import {globalStyles} from '../components/styles';
 import PropTypes from 'prop-types';
-import {
-    RevixContainer
-} from './_document.styles';
-import BgAnimation from "../components/common/bg-animation";
+
 
 export default class MyDocument extends Document {
     static getInitialProps({renderPage}) {
@@ -28,11 +25,8 @@ export default class MyDocument extends Document {
                 <style dangerouslySetInnerHTML={{__html: globalStyles}}/>
             </Head>
             <body>
-            <BgAnimation/>
-            <RevixContainer>
-                <Main/>
-                <NextScript/>
-            </RevixContainer>
+            <Main/>
+            <NextScript/>
             </body>
             </html>
         );

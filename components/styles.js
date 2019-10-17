@@ -11,6 +11,39 @@ export { styled, ifProp, prop, css };
 // Rest of styles
 export const globalStyles = `
 ${resetCSS}
+
+@font-face {
+    font-family: 'Bozon';
+    font-weight: 400;
+    src: url('/static/fonts/ROHH---Bozon-Regular.eot');
+    src: url('/static/fonts/ROHH---Bozon-Regular.eot?#iefix') format('embedded-opentype'),
+         url('/static/fonts/ROHH---Bozon-Regular.woff2') format('woff2'),
+         url('/static/fonts/ROHH---Bozon-Regular.woff') format('woff'),
+         url('/static/fonts/ROHH---Bozon-Regular.ttf')  format('truetype'),
+         url('/static/fonts/ROHH---Bozon-Regular.svg#Bozon') format('svg');
+}
+
+@font-face {
+    font-family: 'Bozon';
+    font-weight: 600;
+    src: url('/static/fonts/ROHH---Bozon-Demi-Bold.eot');
+    src: url('/static/fonts/ROHH---Bozon-Demi-Bold.eot?#iefix') format('embedded-opentype'),
+         url('/static/fonts/ROHH---Bozon-Demi-Bold.woff2') format('woff2'),
+         url('/static/fonts/ROHH---Bozon-Demi-Bold.woff') format('woff'),
+         url('/static/fonts/ROHH---Bozon-Demi-Bold.ttf')  format('truetype'),
+         url('/static/fonts/ROHH---Bozon-Demi-Bold.svg#Bozon') format('svg');
+}
+
+@font-face {
+    font-family: 'Bozon';
+    src: url('/static/fonts/ROHH---Bozon-Bold.eot');
+    src: url('/static/fonts/ROHH---Bozon-Bold.eot?#iefix') format('embedded-opentype'),
+         url('/static/fonts/ROHH---Bozon-Bold.woff2') format('woff2'),
+         url('/static/fonts/ROHH---Bozon-Bold.woff') format('woff'),
+         url('/static/fonts/ROHH---Bozon-Bold.ttf')  format('truetype'),
+         url('/static/fonts/ROHH---Bozon-Bold.svg#Bozon') format('svg');
+}
+
 html {
   box-sizing: border-box;
 }
@@ -27,6 +60,7 @@ body {
   overflow-x: hidden;
   font-weight: 400;
   background-color: #F8F7F2;
+  background-image: url('/')
 }
 
 body > div {

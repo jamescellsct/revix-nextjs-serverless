@@ -5,7 +5,6 @@
       "plugins": [
         "inline-react-svg",
         "react-element-info",
-        "macros",
         "babel-plugin-styled-components",
         ["module-resolver", {
           "root": ["./"],
@@ -24,10 +23,9 @@
     "production": {
       "presets": ["next/babel"],
       "plugins": [
-        "inline-react-svg",
-        "macros",
-        "transform-remove-console",
         "babel-plugin-styled-components",
+        "inline-react-svg",
+        "transform-remove-console",
         ["module-resolver", {
           "root": ["./"],
           "alias": {

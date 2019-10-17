@@ -7,6 +7,7 @@ export { ThemeProvider };
 
 // Rest of the theme
 const theme = {
+
   grid: {
     size: 12,
     gutter: 10, // 10px

@@ -2,21 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93caf1c5-3354-444b-83f2-5471c004bcf1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/common/bg-animation.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pages/_document.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bg-ani.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/bg-ani.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/BUILD_ID" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/build-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/cache/next-minifier/a1582936020" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/cache/next-minifier/a4132057222" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/react-loadable-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/react-loadable-manifest.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/records.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/static/runtime/webpack-035ac2b14bde147cb4a8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Home/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Home/Home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/common/bg-animation.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/common/bg-animation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/common/bg-animation.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/common/bg-animation.styles.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/common/button.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/common/button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.dev.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/_document.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_document.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/ROHH---Bozon-Bold.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ROHH---Bozon-Bold.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/ROHH---Bozon-Bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ROHH---Bozon-Bold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/ROHH---Bozon-Bold.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ROHH---Bozon-Bold.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/ROHH---Bozon-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ROHH---Bozon-Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/ROHH---Bozon-Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ROHH---Bozon-Bold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/ROHH---Bozon-Demi-Bold.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ROHH---Bozon-Demi-Bold.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/ROHH---Bozon-Demi-Bold.otf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ROHH---Bozon-Demi-Bold.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/ROHH---Bozon-Demi-Bold.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ROHH---Bozon-Demi-Bold.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/ROHH---Bozon-Demi-Bold.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ROHH---Bozon-Demi-Bold.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/ROHH---Bozon-Demi-Bold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ROHH---Bozon-Demi-Bold.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/ROHH---Bozon-Regular.eot" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ROHH---Bozon-Regular.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/ROHH---Bozon-Regular.otf" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ROHH---Bozon-Regular.otf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/ROHH---Bozon-Regular.svg" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ROHH---Bozon-Regular.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/ROHH---Bozon-Regular.woff" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ROHH---Bozon-Regular.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/fonts/ROHH---Bozon-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/ROHH---Bozon-Regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/theme/revix.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +94,9 @@
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/public/bg-ani" />
       <recent name="$PROJECT_DIR$" />
@@ -164,6 +187,7 @@
       <workItem from="1571263438402" duration="1728000" />
       <workItem from="1571296839445" duration="4610000" />
       <workItem from="1571323289380" duration="3542000" />
+      <workItem from="1571343940549" duration="2932000" />
     </task>
     <servers />
   </component>
