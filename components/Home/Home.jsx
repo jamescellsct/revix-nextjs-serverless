@@ -4,22 +4,22 @@ import {
   HomeWrapper, Content
 } from './Home.styles';
 import {
-    BrowserView,
-    MobileView,
-    isBrowser,
-    isMobile
+  BrowserView,
+  MobileView,
+  isBrowser,
+  isMobile
 } from "react-device-detect";
 
 const Home = props => {
   return (
     <HomeWrapper>
       <Content>
-          <BrowserView>
-              <h1> This is rendered only in moms browser </h1>
-          </BrowserView>
-          <MobileView>
-              <h1> This is rendered only on mobile </h1>
-          </MobileView>
+        <BrowserView>
+          <h1> This is rendered only in browser </h1>
+        </BrowserView>
+        <MobileView>
+          <h1> This is rendered only on mobile </h1>
+        </MobileView>
       </Content>
     </HomeWrapper>
   );

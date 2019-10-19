@@ -55,12 +55,12 @@ html {
 body {
   width: 100vw;
   height: 100vh;
-  font-family: Georgia, "Times New Roman", sans-serif;
+  min-height: 100vh;
+  font-family: 'Bozon';
   margin: 0;
   overflow-x: hidden;
   font-weight: 400;
-  background-color: #F8F7F2;
-  background-image: url('/')
+  background-color: #f8f7f2;
 }
 
 body > div {
@@ -169,6 +169,7 @@ export const Content = styled.div`
   display: flex;
   width: 100%;
   height: 100%;
+  z-index: 800;
 `;
 
 export const Grid = styled.div`
@@ -226,20 +227,3 @@ export const Col = styled.div`
   vertical-align: top;
 `;
 
-export const Button = styled.span`
-  width: ${prop('width', '100%')};
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-color: #4d4751;
-  background-color: #4d4751;
-  color: #fff;
-  height: 50px;
-  border-radius: 27px;
-  margin: 17px 0 0;
-  cursor: pointer;
-
-  &:hover {
-    background-color: #868686;
-  }
-`;

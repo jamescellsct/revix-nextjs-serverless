@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import theme, { ThemeProvider } from '@theme';
+import revix, { ThemeProvider } from '@theme';
 import MainLayout from '../layouts';
 import Home from '@components/Home';
 
@@ -10,7 +10,7 @@ class App extends Component {
 
   render() {
     return (
-      <ThemeProvider theme={theme}>
+      <ThemeProvider theme={revix}>
         <MainLayout>
           <Home pageParams={this.props.pageParams} />
         </MainLayout>

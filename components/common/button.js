@@ -12,7 +12,12 @@ const Button = styled.button`
   font-weight: 700;
   letter-spacing: 0.28px;
   line-height: 21px;
-  
+  cursor: pointer;
+
+  &:hover {
+    background-color: #868686;
+  }
+
   ${props => props.primary && css`
     background: #212eee;
 `}

@@ -1,5 +1,4 @@
 import { styled } from '@styles';
-const dogRight = '/static/images/dog.png';
 
 export const HomeWrapper = styled.div`
   display: flex;
@@ -11,9 +10,8 @@ export const HomeWrapper = styled.div`
 export const Content = styled.div`
   width: 100%;
   height: 100%;
-  background-color: #f8f7f2;
   display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  top: 0px;
+  left: 0px;
+  background-color: transparent;
 `;

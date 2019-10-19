@@ -5,7 +5,7 @@
       "root": ["src/*"],
       "@component/*": ["components/*"],
       "@styles": ["components/styles"],
-      "@theme": ["components/theme"],
+      "@theme": ["components/theme"]
     }
   }
 }

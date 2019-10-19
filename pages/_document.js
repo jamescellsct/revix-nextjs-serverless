@@ -32,10 +32,10 @@ export default class MyDocument extends Document {
                 {this.props.styleTags}
                 <style dangerouslySetInnerHTML={{__html: globalStyles}}/>
             </Head>
-            <body>
-            <Main/>
-            <NextScript/>
-            </body>
+                <body>
+                    <Main/>
+                    <NextScript/>
+                </body>
             </Html>
         );
     }
