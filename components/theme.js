@@ -6,14 +6,15 @@ import { ThemeProvider } from 'styled-components';
 export { ThemeProvider };
 
 // Rest of the theme
-const revix = {
+const Revix = {
   colors: {
     primary: '#212EEE',
     secondary: '#9096F6',
-    red: 'FF430E',
-    darkpurple: '9421EE',
-    lightpurple: 'EE21E6',
-    green: '21EE73',
+    red: '#FF430E',
+    whitebg: '#E5E5E5',
+    darkpurple: '#9421EE',
+    lightpurple: '#EE21E6',
+    green: '#21EE73',
     yellow: '#FFCA39',
     typedark: '#101239',
     typedarkgray: '#9BA1BE',
@@ -33,4 +34,4 @@ const revix = {
   },
 };
 
-export default revix;
+export default Revix;

@@ -1,5 +1,5 @@
 import React from 'react';
-import styled, {css} from 'styled-components';
+import styled, { css } from 'styled-components';
 
 const Button = styled.button`
   width: 112px;
@@ -18,10 +18,11 @@ const Button = styled.button`
     background-color: #868686;
   }
 
-  ${props => props.primary && css`
-    background: #212eee;
-`}
-  
+  ${props =>
+    props.primary &&
+    css`
+      background: #212eee;
+    `}
 `;
 
 export default Button;

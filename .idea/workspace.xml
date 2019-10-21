@@ -1,13 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="93caf1c5-3354-444b-83f2-5471c004bcf1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/components/common/header/header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/client/polyfills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/ResponsiveLayout/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/RevixCursor/RevixCursor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/SmoothScroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/footer/SharedFooter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/footer/SharedFooter.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/header/HeaderNav/HeaderNav.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/header/HeaderNav/HeaderNav.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/containers/Home.container.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/containers/Home.container.stickyroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/containers/Home.styles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/animationIntroLayerOne.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/cursor-border.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/landing-slider/01-phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/landing-slider/01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/landing-slider/02-phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/landing-slider/03-phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/landing-triggered-ani/03-purple-elipse.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/landing-triggered-ani/layerOne.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/landing-triggered-ani/purple-arc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/landing-triggered-ani/red-arc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/landing-triggered-ani/red-elipse-layer.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/landing-triggered-ani/yellow-arc.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/landing-triggered-ani/yellow-tracer-small.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/landing-triggered-ani/yellow-tracker-large.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/layerOne.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp-track.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp/01-elipse-layer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp/currency-dropdown.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp/fingerprint.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp/tmp-24hr.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp/tmp-customer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp/tmp-deposit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp/tmp-footer.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp/tmp-grow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp/tmp-intro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp/tmp-main-nav.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp/tmp-track.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp/tmppress.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/build-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.next/react-loadable-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/react-loadable-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/withApolloClient.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/withApolloClient.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Home/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Home/Home.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Home/Home.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Home/Home.styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/common/button.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/common/button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/common/header/SharedHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/common/header/SharedHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/common/header/SharedHeader.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/common/header/SharedHeader.styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/common/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/common/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/containers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/MainLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/MainLayout.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/layouts/MainLayout.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/MainLayout.styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next.config.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_document.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_document.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +108,8 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="js.linters.configure.manually.selectedeslint" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/components/common/header" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.jscs" value="true" />
@@ -62,16 +124,22 @@
     <property name="node.js.selected.package.standard" value="" />
     <property name="node.js.selected.package.stylelint" value="" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="prettierjs.PrettierConfiguration.Package" value="$PROJECT_DIR$/node_modules/prettier" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/static" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/components/common/header" />
       <recent name="$PROJECT_DIR$/public/bg-ani" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/static/images/tmp" />
+      <recent name="$PROJECT_DIR$/components/common/RevixCursor" />
+      <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/static" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -86,7 +154,10 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="npm.build">
+  <component name="RunManager" selected="npm.dev:next">
+    <configuration name="Home.container.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/components/containers/Home.container.js" working-dir="$PROJECT_DIR$/components/containers">
+      <method v="2" />
+    </configuration>
     <configuration name="build" type="js.build_tools.npm" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -138,12 +209,18 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Node.js.Home.container.js" />
       <item itemvalue="npm.dev:next" />
       <item itemvalue="npm.build" />
       <item itemvalue="npm.start" />
       <item itemvalue="npm.start:next" />
       <item itemvalue="npm.dev" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Home.container.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -163,6 +240,35 @@
       <workItem from="1571372753388" duration="363000" />
       <workItem from="1571373949159" duration="1147000" />
       <workItem from="1571400125614" duration="158000" />
+      <workItem from="1571508545726" duration="8000" />
+      <workItem from="1571596836537" duration="1084000" />
+      <workItem from="1571598515133" duration="1698000" />
+      <workItem from="1571600360656" duration="923000" />
+      <workItem from="1571601500312" duration="1092000" />
+      <workItem from="1571603317769" duration="1787000" />
+      <workItem from="1571605139988" duration="1488000" />
+      <workItem from="1571607025089" duration="1747000" />
+      <workItem from="1571608841602" duration="261000" />
+      <workItem from="1571609243139" duration="1185000" />
+      <workItem from="1571610593270" duration="395000" />
+      <workItem from="1571611068700" duration="1006000" />
+      <workItem from="1571613004575" duration="1327000" />
+      <workItem from="1571614820281" duration="1138000" />
+      <workItem from="1571616097969" duration="1641000" />
+      <workItem from="1571617935348" duration="1114000" />
+      <workItem from="1571619817415" duration="932000" />
+      <workItem from="1571621708289" duration="597000" />
+      <workItem from="1571649942805" duration="1157000" />
+      <workItem from="1571651972752" duration="1087000" />
+      <workItem from="1571653795894" duration="1144000" />
+      <workItem from="1571660848978" duration="568000" />
+      <workItem from="1571663074046" duration="1157000" />
+      <workItem from="1571664908765" duration="637000" />
+      <workItem from="1571669473998" duration="1294000" />
+      <workItem from="1571672434672" duration="845000" />
+      <workItem from="1571689462797" duration="1743000" />
+      <workItem from="1571691278140" duration="1721000" />
+      <workItem from="1571693110556" duration="671000" />
     </task>
     <servers />
   </component>

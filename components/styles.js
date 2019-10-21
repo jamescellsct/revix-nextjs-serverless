@@ -11,6 +11,104 @@ export { styled, ifProp, prop, css };
 // Rest of styles
 export const globalStyles = `
 ${resetCSS}
+.viewport {
+  margin: 0 0 0 0;
+  width: 100vw;
+  overflow-x: hidden;
+  position: fixed;
+}
+
+
+.cursor, .cursor2, .cursor3 {
+  position: fixed;
+  border-radius: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  pointer-events: none;
+  left: -100px;
+  top: 50%; }
+  @media screen and (max-width: 1024px) {
+    .cursor, .cursor2, .cursor3 {
+      display: none; } }
+
+.cursor {
+  background-color: #EC2026;
+  height: 5px;
+  width: 5px;
+  z-index: 99999; }
+  .cursor.loader {
+    background-color: transparent; }
+    .cursor.loader:before {
+      display: block;
+      content: "wait";
+      color: #000;
+      font: 400 normal 8px/8px 'Bozon';
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      mix-blend-mode: difference;
+      position: absolute;
+      text-align: center;
+      width: 300px;
+      transform: translateX(-50%) translateY(-50%); }
+
+.cursor2 {
+  border: 1px solid white;
+  height: 30px;
+  width: 30px;
+  z-index: 99998;
+  -webkit-transition: transform 0.3s ease-out;
+  -moz-transition: transform 0.3s ease-out;
+  -o-transition: transform 0.3s ease-out;
+  -ms-transition: transform 0.3s ease-out;
+  transition: transform 0.3s ease-out;
+  mix-blend-mode: difference; }
+  .cursor2.hover {
+    -webkit-transform: scale(2.5) translateX(-25%) translateY(-25%);
+    -moz-transform: scale(2.5) translateX(-25%) translateY(-25%);
+    -ms-transform: scale(2.5) translateX(-25%) translateY(-25%);
+    -o-transform: scale(2.5) translateX(-25%) translateY(-25%);
+    transform: scale(2.5) translateX(-25%) translateY(-25%);
+    background: #000;
+    border: none; }
+  .cursor2.loader {
+    -webkit-animation: load2 1.5s infinite ease;
+    animation: load2 1.5s infinite ease;
+    background: 000;
+    border: none;
+    z-index: 999999; }
+
+@-webkit-keyframes load2 {
+  0% {
+    -webkit-transform: scale(2) translateX(-28%) translateY(-28%);
+    transform: scale(2) translateX(-28%) translateY(-28%);
+    opacity: 1; }
+  50% {
+    -webkit-transform: scale(2.5) translateX(-25%) translateY(-25%);
+    -moz-transform: scale(2.5) translateX(-25%) translateY(-25%);
+    -ms-transform: scale(2.5) translateX(-25%) translateY(-25%);
+    -o-transform: scale(2.5) translateX(-25%) translateY(-25%);
+    transform: scale(2.5) translateX(-25%) translateY(-25%);
+    opacity: 1; }
+  100% {
+    -webkit-transform: scale(2) translateX(-28%) translateY(-28%);
+    transform: scale(2) translateX(-28%) translateY(-28%);
+    opacity: 1; } }
+
+@keyframes load2 {
+  0% {
+    -webkit-transform: scale(2) translateX(-28%) translateY(-28%);
+    transform: scale(2) translateX(-28%) translateY(-28%);
+    opacity: 1; }
+  50% {
+    -webkit-transform: scale(2.5) translateX(-25%) translateY(-25%);
+    -moz-transform: scale(2.5) translateX(-25%) translateY(-25%);
+    -ms-transform: scale(2.5) translateX(-25%) translateY(-25%);
+    -o-transform: scale(2.5) translateX(-25%) translateY(-25%);
+    transform: scale(2.5) translateX(-25%) translateY(-25%);
+    opacity: 1; }
+  100% {
+    -webkit-transform: scale(2) translateX(-28%) translateY(-28%);
+    transform: scale(2) translateX(-28%) translateY(-28%);
+    opacity: 1; } }
 
 @font-face {
     font-family: 'Bozon';
@@ -44,6 +142,8 @@ ${resetCSS}
          url('/static/fonts/ROHH---Bozon-Bold.svg#Bozon') format('svg');
 }
 
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700');
+
 html {
   box-sizing: border-box;
 }
@@ -56,7 +156,7 @@ body {
   width: 100vw;
   height: 100vh;
   min-height: 100vh;
-  font-family: 'Bozon';
+  font-family: Bozon, serif;
   margin: 0;
   overflow-x: hidden;
   font-weight: 400;
@@ -81,6 +181,8 @@ h1 {
 p {
   margin: 30px 0;  
 }
+
+
 `;
 
 export const media = {
@@ -130,7 +232,7 @@ export const media = {
     @media (max-width: ${theme.grid.breakpoints.lg}px) {
       ${css(...args)};
     }
-  `,
+  `
 };
 
 export const FadeIn = keyframes`
@@ -226,4 +328,3 @@ export const Col = styled.div`
   display: inline-block;
   vertical-align: top;
 `;
-

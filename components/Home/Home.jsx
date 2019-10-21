@@ -1,36 +1,35 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import {
-  HomeWrapper, Content
-} from './Home.styles';
-import {
   BrowserView,
   MobileView,
   isBrowser,
   isMobile
-} from "react-device-detect";
+} from 'react-device-detect';
+import { Flex, Box } from 'reflexbox/styled-components';
+import HomeContainerStickyRoll from '../containers/Home.container.stickyroll';
 
 const Home = props => {
   return (
-    <HomeWrapper>
-      <Content>
+    <Flex
+      sx={{
+        mx: 'auto'
+      }}
+    >
+      <Box w={1240} px={0}>
         <BrowserView>
-          <h1> This is rendered only in browser </h1>
+          <HomeContainerStickyRoll />
         </BrowserView>
         <MobileView>
           <h1> This is rendered only on mobile </h1>
         </MobileView>
-      </Content>
-    </HomeWrapper>
+      </Box>
+    </Flex>
   );
 };
 
-Home.propTypes = {
-  // bla: PropTypes.string,
-};
+Home.propTypes = {};
 
-Home.defaultProps = {
-  // bla: 'test',
-};
+Home.defaultProps = {};
 
 export default Home;
