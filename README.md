@@ -1,22 +1,46 @@
-# ac-react-simple-boilerplate
-A light React SSR boilerplate built with React.js, styled-components, next.js, Apollo and GraphQL.
+# Revix Frontend Boilerplate
+> Latest Serverless Technology Boilerplate with cutting edge framework integrations.
 
-**NOTE:** This repo is still WiP. Please do not use for the production!!
+[![NPM Version][npm-image]][npm-url]
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
 
-## Running Locally
+I will update this doc with some better documentation soon.
 
-1. Clone this repo
-2. Type `cd ac-react-simple-boilerplate` to enter the project folder
-3. Run `npm install` or `yarn install` and install dependencies
-4. Rename `next.config-dev.js` to `next.config.js`
-5. Insert your API BASE url into the `next.config.js`
-6. Run `npm run dev` or `yarn dev` and visit [localhost:3000](http://localhost:3000)
+![](tech-stack.png)
+![](api.png)
 
-## Build
+## Installation
 
-1. Run `npm run build` or `yarn build`
-1. The compiled version will be in `/.next/dist/`
+OS X & Linux:
 
-## Live Example
+```sh
+yarn install
+```
 
-WiP
+Windows:
+
+```sh
+yarn install
+```
+
+## getting started
+
+```sh
+yarn build
+```
+
+```sh
+yarn dev:next
+```
+
+
+
+## Release History
+
+* 0.0.1
+    * This Repo you are looking at
+
+## Brought to you by:
+
+James Cells - jamescellsct@gmail.com
