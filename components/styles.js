@@ -164,7 +164,7 @@ body {
   margin: 0;
   overflow-x: hidden;
   font-weight: 400;
-  background-color: #f8f7f2;
+  background-color: #ffffff;
 }
 
 body > div {
