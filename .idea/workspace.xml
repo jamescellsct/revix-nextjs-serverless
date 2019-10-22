@@ -5,69 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93caf1c5-3354-444b-83f2-5471c004bcf1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.prettierrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/client/polyfills.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/common/ResponsiveLayout/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/common/RevixCursor/RevixCursor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/common/SmoothScroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/common/footer/SharedFooter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/common/footer/SharedFooter.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/common/header/HeaderNav/HeaderNav.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/common/header/HeaderNav/HeaderNav.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/containers/Home.container.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/containers/Home.container.stickyroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/components/containers/Home.styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/animationIntroLayerOne.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/cursor-border.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/landing-slider/01-phone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/landing-slider/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/landing-slider/02-phone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/landing-slider/03-phone.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/landing-triggered-ani/03-purple-elipse.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/landing-triggered-ani/layerOne.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/landing-triggered-ani/purple-arc.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/landing-triggered-ani/red-arc.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/landing-triggered-ani/red-elipse-layer.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/landing-triggered-ani/yellow-arc.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/landing-triggered-ani/yellow-tracer-small.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/landing-triggered-ani/yellow-tracker-large.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/layerOne.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tmp-track.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tmp/01-elipse-layer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tmp/currency-dropdown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tmp/fingerprint.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tmp/tmp-24hr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tmp/tmp-customer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tmp/tmp-deposit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tmp/tmp-footer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tmp/tmp-grow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tmp/tmp-intro.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tmp/tmp-main-nav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tmp/tmp-track.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/tmp/tmppress.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.eslintrc" beforeDir="false" afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/common/GridLayout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/containers/Home.container.scrollmagic.example.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/containers/Home.container.scrollmagic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp/card/large/crypto.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp/slide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp/slide1-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp/slide1-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp/stats.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/tmp/subtext.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.next/build-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/build-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.next/react-loadable-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/.next/react-loadable-manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/withApolloClient.js" beforeDir="false" afterPath="$PROJECT_DIR$/api/withApolloClient.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/Home/Home.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Home/Home.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Home/Home.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/Home/Home.styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/common/button.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/common/button.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/common/header/HeaderNav/HeaderNav.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/common/header/HeaderNav/HeaderNav.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/common/header/HeaderNav/HeaderNav.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/common/header/HeaderNav/HeaderNav.styles.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/common/header/SharedHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/common/header/SharedHeader.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/common/header/SharedHeader.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/common/header/SharedHeader.styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/common/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/common/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/containers/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/.prettierignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/containers/Home.container.stickyroll.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/containers/Home.container.stickyroll.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/components/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/components/theme.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/layouts/MainLayout.js" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/MainLayout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/layouts/MainLayout.styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/layouts/MainLayout.styles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_document.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_document.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -268,7 +225,22 @@
       <workItem from="1571672434672" duration="845000" />
       <workItem from="1571689462797" duration="1743000" />
       <workItem from="1571691278140" duration="1721000" />
-      <workItem from="1571693110556" duration="671000" />
+      <workItem from="1571693110556" duration="1754000" />
+      <workItem from="1571694940650" duration="1696000" />
+      <workItem from="1571696767088" duration="1591000" />
+      <workItem from="1571698756627" duration="1671000" />
+      <workItem from="1571700615292" duration="1449000" />
+      <workItem from="1571702715033" duration="1330000" />
+      <workItem from="1571704796384" duration="431000" />
+      <workItem from="1571707302089" duration="1585000" />
+      <workItem from="1571709118898" duration="1392000" />
+      <workItem from="1571710947117" duration="721000" />
+      <workItem from="1571730403319" duration="1224000" />
+      <workItem from="1571732899462" duration="764000" />
+      <workItem from="1571735650007" duration="1572000" />
+      <workItem from="1571737944276" duration="1723000" />
+      <workItem from="1571739763117" duration="1597000" />
+      <workItem from="1571741665487" duration="1778000" />
     </task>
     <servers />
   </component>

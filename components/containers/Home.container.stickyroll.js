@@ -10,7 +10,7 @@ const headlines = [
 
 const HomeContainerStickyRoll = () => {
   return (
-    <Stickyroll pages={headlines}>
+    <Stickyroll pages={headlines} factor={2}>
       {({ page, pageIndex, pages, progress }) => {
         return (
           <div>

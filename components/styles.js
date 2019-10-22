@@ -18,6 +18,10 @@ ${resetCSS}
   position: fixed;
 }
 
+.image {
+width:100%;
+}
+
 
 .cursor, .cursor2, .cursor3 {
   position: fixed;
@@ -272,6 +276,7 @@ export const Content = styled.div`
   width: 100%;
   height: 100%;
   z-index: 800;
+  flex-direction: column;
 `;
 
 export const Grid = styled.div`

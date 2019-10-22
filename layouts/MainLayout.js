@@ -1,17 +1,17 @@
 import React from 'react';
 import Link from 'next/link';
-import { LayoutContainer, Content } from '@styles';
+import { Content } from '@styles';
 import SharedHeader from '@components/common/header/SharedHeader';
-import Iframe from 'react-iframe';
 import RevixCursor from '@components/common/RevixCursor/RevixCursor';
+import RevixGridLayout from '../components/common/GridLayout';
 
 const MainLayout = ({ children }) => {
   return (
-    <LayoutContainer>
+    <RevixGridLayout>
       <RevixCursor />
-      <SharedHeader />
+        <SharedHeader />
       <Content>{children}</Content>
-    </LayoutContainer>
+    </RevixGridLayout>
   );
 };
 

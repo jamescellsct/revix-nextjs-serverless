@@ -6,25 +6,17 @@ import {
   isBrowser,
   isMobile
 } from 'react-device-detect';
-import { Flex, Box } from 'reflexbox/styled-components';
 import HomeContainerStickyRoll from '../containers/Home.container.stickyroll';
+import Sticky2 from '../containers/Home.container.scrollmagic';
 
 const Home = props => {
   return (
-    <Flex
-      sx={{
-        mx: 'auto'
-      }}
-    >
-      <Box w={1240} px={0}>
-        <BrowserView>
-          <HomeContainerStickyRoll />
-        </BrowserView>
-        <MobileView>
-          <h1> This is rendered only on mobile </h1>
-        </MobileView>
-      </Box>
-    </Flex>
+    <div>
+      <BrowserView>
+        <Sticky2 />
+      </BrowserView>
+      <MobileView />
+    </div>
   );
 };
 
