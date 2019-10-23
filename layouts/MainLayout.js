@@ -12,15 +12,6 @@ const MainLayout = ({ children }) => {
       <RevixCursor />
       <SharedHeader />
       <Content>{children}</Content>
-      <Iframe
-        url="/static/bg-ani/index.html"
-        width="100%"
-        height="100%"
-        id="myId"
-        className="myClassname"
-        display="initial"
-        position="fixed"
-      />
     </RevixGridLayout>
   );
 };
