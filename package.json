@@ -1,9 +1,9 @@
 {
-  "name": "ac-react-simple-boilerplate",
+  "name": "revix-nextjs-boilerplate",
   "version": "1.0.0",
   "description": "A light React SSR boilerplate built with React.js, styled-components, next.js, Apollo and GraphQL",
   "main": "server.js",
-  "author": "Abdullah Ceylan <ben@abdullahceylan.com>",
+  "author": "James Cells",
   "license": "MIT",
   "scripts": {
     "dev": "node server.js",

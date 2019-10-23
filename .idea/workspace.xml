@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="93caf1c5-3354-444b-83f2-5471c004bcf1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/api.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/readme/animation.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/readme/framerx.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tech-stack.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -229,7 +225,9 @@
       <workItem from="1571741665487" duration="1778000" />
       <workItem from="1571746459592" duration="1060000" />
       <workItem from="1571754482108" duration="204000" />
-      <workItem from="1571759471927" duration="377000" />
+      <workItem from="1571759471927" duration="774000" />
+      <workItem from="1571769835747" duration="362000" />
+      <workItem from="1571824184478" duration="50000" />
     </task>
     <servers />
   </component>
