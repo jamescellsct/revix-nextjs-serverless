@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "next dev",
     "now-dev": "now dev",
-    "build": "next build && next export",
+    "build": "next build",
     "start": "serve ./out",
     "production": "now --prod"
   },
